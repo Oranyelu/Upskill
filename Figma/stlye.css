@@ -1,0 +1,12 @@
+* {font-family: 'Manrope', sans-serif;
+
+}
+
+.imagebt {
+    align-self: right;
+    size: 50%;
+    position: relative;
+}
+body {background-image: black;
+align-items: center;
+display: inline;}
